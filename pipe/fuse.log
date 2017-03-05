@@ -1,0 +1,33 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/asus/Desktop/exp06/pipe/sim_mips_isim_beh.exe" -prj "C:/Users/asus/Desktop/exp06/pipe/sim_mips_beh.prj" "work.sim_mips" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+WARNING:Simulator:1010 - One or more environment variables have been detected which affect the operation of the C compiler. These are typically not set in standard installations and are not tested by Xilinx, however they may be appropriate for your system, so the flow will attempt to continue.  If errors occur, try running fuse with the "-mt off -v 1" switches to see more information from the C compiler. The following environment variables have been detected:
+Analyzing Verilog file "C:/Users/asus/Desktop/exp06/pipe/../exp3 code/regfile.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/exp06/pipe/../exp3 code/alu.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/exp06/pipe/../exp3 code/datapath.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/exp06/pipe/../exp3 code/controller.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/exp06/pipe/../exp3 code/mips_core.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/exp06/pipe/../exp3 code/inst_rom.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/exp06/pipe/../exp3 code/data_ram.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/exp06/pipe/../exp3 code/mips.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/exp06/pipe/../exp3 code/sim_mips.v" into library work
+Analyzing Verilog file "F:/ISE/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module controller
+Compiling module regfile
+Compiling module alu
+Compiling module datapath
+Compiling module mips_core
+Compiling module inst_rom
+Compiling module data_ram
+Compiling module mips
+Compiling module sim_mips
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 10 Verilog Units
+Built simulation executable C:/Users/asus/Desktop/exp06/pipe/sim_mips_isim_beh.exe
+Fuse Memory Usage: 29644 KB
+Fuse CPU Usage: 2093 ms

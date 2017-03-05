@@ -1,0 +1,15 @@
+MO displcd NULL "../exp3 code/displcd.v" vlg13/displcd.bin 1480396151
+MO display NULL "../exp3 code/display.v" vlg1E/display.bin 1480396151
+MO lcd NULL "../exp3 code/displcd.v" vlg5F/lcd.bin 1480396151
+MO inst_rom NULL "../exp3 code/inst_rom.v" vlg73/inst__rom.bin 1480421354
+MO genlcd NULL "../exp3 code/displcd.v" vlg7D/genlcd.bin 1480396151
+MO clk_gen NULL "../exp3 code/clk_gen.v" vlg6B/clk__gen.bin 1480396151
+MO regfile NULL "../exp3 code/regfile.v" vlg72/regfile.bin 1480674480
+MO datapath NULL "../exp3 code/datapath.v" vlg27/datapath.bin 1480674481
+MO mips_core NULL "../exp3 code/mips_core.v" vlg3D/mips__core.bin 1480674481
+MO mips NULL "../exp3 code/mips.v" vlg1D/mips.bin 1480421354
+MO controller NULL "../exp3 code/controller.v" vlg54/controller.bin 1480674481
+MO anti_jitter NULL "../exp3 code/anti_jitter.v" vlg2D/anti__jitter.bin 1480396151
+MO mips_top NULL "../exp3 code/mips_top.v" vlg1F/mips__top.bin 1480396151
+MO alu NULL "../exp3 code/alu.v" vlg0A/alu.bin 1480674481
+MO data_ram NULL "../exp3 code/data_ram.v" vlg29/data__ram.bin 1480421354

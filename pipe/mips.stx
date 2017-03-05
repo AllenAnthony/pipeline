@@ -1,0 +1,60 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/asus/Desktop/exp05/pipe/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.58 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/asus/Desktop/exp05/pipe/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.58 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "../exp3 code/regfile.v" in library work
+Compiling verilog include file "../exp3 code/define.vh"
+Compiling verilog file "../exp3 code/alu.v" in library work
+Compiling verilog include file "../exp3 code/define.vh"
+Module <regfile> compiled
+Compiling verilog include file "../exp3 code/mips_define.vh"
+Compiling verilog file "../exp3 code/datapath.v" in library work
+Compiling verilog include file "../exp3 code/define.vh"
+Module <alu> compiled
+Compiling verilog include file "../exp3 code/mips_define.vh"
+Compiling verilog file "../exp3 code/controller.v" in library work
+Compiling verilog include file "../exp3 code/define.vh"
+Module <datapath> compiled
+Compiling verilog include file "../exp3 code/mips_define.vh"
+Compiling verilog file "../exp3 code/mips_core.v" in library work
+Compiling verilog include file "../exp3 code/define.vh"
+Module <controller> compiled
+Compiling verilog file "../exp3 code/inst_rom.v" in library work
+Module <mips_core> compiled
+Compiling verilog file "../exp3 code/data_ram.v" in library work
+Module <inst_rom> compiled
+Compiling verilog file "../exp3 code/mips.v" in library work
+Compiling verilog include file "../exp3 code/define.vh"
+Module <data_ram> compiled
+Module <mips> compiled
+No errors in compilation
+Analysis of file <"mips.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 1.06 secs
+ 
+--> 
+
+Total memory usage is 261788 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

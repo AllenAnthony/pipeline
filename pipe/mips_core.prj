@@ -1,0 +1,5 @@
+verilog work "../exp3 code/regfile.v"
+verilog work "../exp3 code/alu.v"
+verilog work "../exp3 code/datapath.v"
+verilog work "../exp3 code/controller.v"
+verilog work "../exp3 code/mips_core.v"

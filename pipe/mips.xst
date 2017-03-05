@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/asus/Desktop/exp05/pipe/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/asus/Desktop/exp05/pipe/xst"
+elaborate
+-ifn mips.prj
+-ifmt mixed
